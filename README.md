@@ -10,11 +10,11 @@ Os e-mails serão armazenados em um banco banco de dados. Utilizaremos uma api e
 Criaremos dois repositórios no gitHub um para o front-end e outro para o back-end. Após isso, elaboraremos uma lista de requisitos tanto para o front-end quanto para o back-end.
 
 # Como farão?
-##Front-End:
+## Front-End:
 
 Primeiramente desenvolveremos a landing page em HTML com as informações pertinentes a empresa, e o formulário para captação dos dados do cliente (nome e e-mail). Após isso, faremos a estilização da página utilizando css. E por fim toda a lógica com JavaScript para capturar os dados do cliente.
 
-##Back-End:
+## Back-End:
 
 Faremos um back-end utilizando express e mongoDB cujo objetivo será armazenar os nome e e-mails dos clientes.
 
