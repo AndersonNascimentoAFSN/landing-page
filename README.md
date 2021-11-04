@@ -29,3 +29,5 @@ Será necessário captar o nome e e-mail do cliente na página através dos resp
 
 Chegando no back-end deve haver um endpoint para pegar esses dados enviados pelo front-end e armazená-los no banco de dados do mongoDB.
 
+Será necessário também fazer algumas validações no front-end para que os dados proibindo o envio do formulário, vazio, por exemplo.
+
