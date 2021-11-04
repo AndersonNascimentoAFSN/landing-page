@@ -1,5 +1,3 @@
-# landing-page
-
 # Desafio 1 O cliente Só Sabão precisa captar os e-mails de seus clientes para contatos e estratégias de mailing e para isso, precisamos de uma landing page.
 
 # O que vocês farão? 
